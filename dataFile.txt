@@ -1,0 +1,2 @@
+Brand,Model,An,CP
+Mazda,6,2012,120
